@@ -1,0 +1,9 @@
+{
+  "name": "HelloIonic",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.1.0",
+    "angular-google-maps": "~1.1.8",
+    "lodash": "~3.10.1"
+  }
+}

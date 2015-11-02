@@ -1,0 +1,8 @@
+<ion-view view-title="Location-Map">
+  <ion-content>
+    <ion-list>
+      <ion-item ng-repeat="session in sessions"
+                href="#/app/location/{{session.id}}">{{session.location}}</ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
